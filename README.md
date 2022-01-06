@@ -18,7 +18,7 @@ Based on the official Docker images from Elastic:
 * [Logstash](https://github.com/elastic/logstash/tree/master/docker)
 * [Kibana](https://github.com/elastic/kibana/tree/master/src/dev/build/tasks/os_packages/docker_generator)
 
-Visit [Flowygo](https://flowygo.com/blog/) to find useful tutorial on the ELK stack and other technologies.
+Visit [Flowygo](https://flowygo.com/blog/) to find useful tutorials on the ELK stack and other technologies.
 
 ---
 
